@@ -1,0 +1,44 @@
+{
+  "name": "cordova-plugin-wakeuptimer",
+  "version": "0.1",
+  "description": "wakeuptimer",
+  "cordova": {
+    "id": "cordova-plugin-wakeuptimer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drownload/cordova-plugin-wakeuptimer.git"
+  },
+  "keywords": [
+    "appplant",
+    "wakeuptimer"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=6.0.0"
+    },
+    {
+      "name": "android-sdk",
+      "version": ">=26"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=10.0.0"
+    }
+  ],
+  "author": "Daniel Levin",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/drownload/cordova-plugin-wakeuptimer/issues"
+  },
+  "homepage": "https://github.com/drownload/cordova-plugin-wakeuptimer#readme"
+}
